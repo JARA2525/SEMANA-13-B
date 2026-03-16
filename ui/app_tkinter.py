@@ -1,4 +1,5 @@
 # Interfaz gráfica del sistema utilizando Tkinter
+# Implementación del formulario de registro de vehículos
 
 import tkinter as tk
 from tkinter import messagebox
