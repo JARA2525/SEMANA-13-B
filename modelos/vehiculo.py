@@ -1,3 +1,4 @@
+# Clase que representa un vehículo dentro del sistema de garaje
 class Vehiculo:
 
     def __init__(self, placa, marca, propietario):
