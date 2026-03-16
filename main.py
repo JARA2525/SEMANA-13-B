@@ -1,4 +1,5 @@
 # Punto de entrada principal de la aplicación
+# Integración final del sistema de gestión de garaje
 
 import tkinter as tk
 from ui.app_tkinter import AppGaraje
