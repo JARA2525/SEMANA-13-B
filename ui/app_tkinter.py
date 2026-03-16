@@ -1,3 +1,5 @@
+# Interfaz gráfica del sistema utilizando Tkinter
+
 import tkinter as tk
 from tkinter import messagebox
 
