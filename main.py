@@ -1,3 +1,5 @@
+# Punto de entrada principal de la aplicación
+
 import tkinter as tk
 from ui.app_tkinter import AppGaraje
 
